@@ -1,5 +1,5 @@
 esprima = require 'esprima'
-vm = require 'vm'
+vm = require 'vm-browserify'
 
 traverse = (object, visitor, master) ->
 
