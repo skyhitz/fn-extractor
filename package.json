@@ -13,7 +13,8 @@
     "test": "cake test"
   },
   "dependencies": {
-    "esprima": "0.9.8"
+    "esprima": "0.9.8",
+    "vm-browserify": "0.0.4"
   },
   "devDependencies": {
     "coffee-script": "latest",
