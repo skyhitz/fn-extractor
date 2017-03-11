@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/goatslacker/fn-extractor.git"
   },
-  "main": "lib/parser.js",
+  "main": "src/parser.js",
   "scripts": {
     "prepublish": "cake build",
     "test": "cake test"
