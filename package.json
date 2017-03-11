@@ -10,8 +10,7 @@
   "main": "lib/parser.js",
   "scripts": {
     "prepublish": "cake build",
-    "test": "cake test",
-    "postinstall": "./cake build"
+    "test": "cake test"
   },
   "dependencies": {
     "esprima": "0.9.8",
