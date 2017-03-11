@@ -11,7 +11,7 @@
   "scripts": {
     "prepublish": "cake build",
     "test": "cake test",
-    "postinstall": "cake build"
+    "postinstall": "./cake build"
   },
   "dependencies": {
     "esprima": "0.9.8",
